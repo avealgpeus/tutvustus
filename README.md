@@ -1,6 +1,6 @@
 # Ave Algpeuse tutvustus
 
-Lihtne eestikeelne tutvustusleht, mis räägib Ave Algpeusest, tema huvidest ja GitHubi profiilist.
+Lihtne eestikeelne tutvustusleht, mis räägib Ave Algpeusist, tema huvidest ja GitHubi profiilist.
 
 ## Failid
 
